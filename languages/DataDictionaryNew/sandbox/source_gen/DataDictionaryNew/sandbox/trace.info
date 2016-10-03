@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.FieldDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <root nodeRef="r:e7a2a44a-9b87-4538-a297-e5835f06563e(DataDictionaryNew.sandbox)/2882729256806061164">
+    <file name="Mesto.java">
+      <node id="2882729256811345630" at="8,0,9,0" concept="2" trace="MestoId" />
+      <node id="2882729256811345630" at="9,0,10,0" concept="2" trace="Naziv" />
+      <node id="2882729256811345630" at="15,40,16,23" concept="1" />
+      <node id="2882729256811345630" at="18,41,19,21" concept="1" />
+      <node id="2882729256811345630" at="24,27,25,19" concept="4" />
+      <node id="2882729256811345630" at="27,28,28,17" concept="4" />
+      <node id="2882729256811345630" at="12,0,14,0" concept="0" trace="Mesto#()V" />
+      <node id="2882729256811345630" at="15,0,18,0" concept="3" trace="setMestoId#(I)V" />
+      <node id="2882729256811345630" at="18,0,21,0" concept="3" trace="setNaziv#(Ljava/lang/String;)V" />
+      <node id="2882729256811345630" at="24,0,27,0" concept="3" trace="getMestoId#()I" />
+      <node id="2882729256811345630" at="27,0,30,0" concept="3" trace="getNaziv#()Ljava/lang/String;" />
+      <scope id="2882729256811345630" at="12,18,12,18" />
+      <scope id="2882729256811345630" at="15,40,16,23" />
+      <scope id="2882729256811345630" at="18,41,19,21" />
+      <scope id="2882729256811345630" at="24,27,25,19" />
+      <scope id="2882729256811345630" at="27,28,28,17" />
+      <scope id="2882729256811345630" at="12,0,14,0" />
+      <scope id="2882729256811345630" at="15,0,18,0">
+        <var name="newValue" id="2882729256811345630" />
+      </scope>
+      <scope id="2882729256811345630" at="18,0,21,0">
+        <var name="newValue" id="2882729256811345630" />
+      </scope>
+      <scope id="2882729256811345630" at="24,0,27,0" />
+      <scope id="2882729256811345630" at="27,0,30,0" />
+      <unit id="2882729256811345630" at="6,0,33,0" name="DataDictionaryNew.sandbox.Mesto" />
+    </file>
+    <file name="Osoba.java">
+      <node id="2882729256811345589" at="9,0,10,0" concept="2" trace="OsobaId " />
+      <node id="2882729256811345589" at="10,0,11,0" concept="2" trace="Ime" />
+      <node id="2882729256811345589" at="11,0,12,0" concept="2" trace="Prezime " />
+      <node id="2882729256811345589" at="12,0,13,0" concept="2" trace="Godina" />
+      <node id="2882729256811345589" at="14,0,15,0" concept="2" trace="Mesto" />
+      <node id="2882729256811345589" at="15,0,16,0" concept="2" trace="MetoList" />
+      <node id="2882729256811345589" at="16,0,17,0" concept="2" trace="Prijava" />
+      <node id="2882729256811345589" at="17,0,18,0" concept="2" trace="A" />
+      <node id="2882729256811345589" at="22,41,23,24" concept="1" />
+      <node id="2882729256811345589" at="25,39,26,19" concept="1" />
+      <node id="2882729256811345589" at="28,44,29,24" concept="1" />
+      <node id="2882729256811345589" at="31,42,32,22" concept="1" />
+      <node id="2882729256811345589" at="35,40,36,21" concept="1" />
+      <node id="2882729256811345589" at="38,49,39,24" concept="1" />
+      <node id="2882729256811345589" at="41,44,42,23" concept="1" />
+      <node id="2882729256811345589" at="44,36,45,17" concept="1" />
+      <node id="2882729256811345589" at="49,28,50,20" concept="4" />
+      <node id="2882729256811345589" at="52,26,53,15" concept="4" />
+      <node id="2882729256811345589" at="55,31,56,20" concept="4" />
+      <node id="2882729256811345589" at="58,29,59,18" concept="4" />
+      <node id="2882729256811345589" at="62,27,63,17" concept="4" />
+      <node id="2882729256811345589" at="65,36,66,20" concept="4" />
+      <node id="2882729256811345589" at="68,31,69,19" concept="4" />
+      <node id="2882729256811345589" at="71,23,72,13" concept="4" />
+      <node id="2882729256811345589" at="19,0,21,0" concept="0" trace="Osoba#()V" />
+      <node id="2882729256811345589" at="22,0,25,0" concept="3" trace="setOsobaId #(I)V" />
+      <node id="2882729256811345589" at="25,0,28,0" concept="3" trace="setIme#(Ljava/lang/String;)V" />
+      <node id="2882729256811345589" at="28,0,31,0" concept="3" trace="setPrezime #(D)V" />
+      <node id="2882729256811345589" at="31,0,34,0" concept="3" trace="setGodina#(Ljava/lang/String;)V" />
+      <node id="2882729256811345589" at="35,0,38,0" concept="3" trace="setMesto#(LDataDictionaryNew/sandbox/Mesto;)V" />
+      <node id="2882729256811345589" at="38,0,41,0" concept="3" trace="setMetoList#(Ljava/util/List;)V" />
+      <node id="2882729256811345589" at="41,0,44,0" concept="3" trace="setPrijava#(LDataDictionaryNew/sandbox/Prijava;)V" />
+      <node id="2882729256811345589" at="44,0,47,0" concept="3" trace="setA#(LDataDictionaryNew/sandbox/Mesto;)V" />
+      <node id="2882729256811345589" at="49,0,52,0" concept="3" trace="getOsobaId #()I" />
+      <node id="2882729256811345589" at="52,0,55,0" concept="3" trace="getIme#()Ljava/lang/String;" />
+      <node id="2882729256811345589" at="55,0,58,0" concept="3" trace="getPrezime #()D" />
+      <node id="2882729256811345589" at="58,0,61,0" concept="3" trace="getGodina#()Ljava/lang/String;" />
+      <node id="2882729256811345589" at="62,0,65,0" concept="3" trace="getMesto#()LDataDictionaryNew/sandbox/Mesto;" />
+      <node id="2882729256811345589" at="65,0,68,0" concept="3" trace="getMetoList#()Ljava/util/List;" />
+      <node id="2882729256811345589" at="68,0,71,0" concept="3" trace="getPrijava#()LDataDictionaryNew/sandbox/Prijava;" />
+      <node id="2882729256811345589" at="71,0,74,0" concept="3" trace="getA#()LDataDictionaryNew/sandbox/Mesto;" />
+      <scope id="2882729256811345589" at="19,18,19,18" />
+      <scope id="2882729256811345589" at="22,41,23,24" />
+      <scope id="2882729256811345589" at="25,39,26,19" />
+      <scope id="2882729256811345589" at="28,44,29,24" />
+      <scope id="2882729256811345589" at="31,42,32,22" />
+      <scope id="2882729256811345589" at="35,40,36,21" />
+      <scope id="2882729256811345589" at="38,49,39,24" />
+      <scope id="2882729256811345589" at="41,44,42,23" />
+      <scope id="2882729256811345589" at="44,36,45,17" />
+      <scope id="2882729256811345589" at="49,28,50,20" />
+      <scope id="2882729256811345589" at="52,26,53,15" />
+      <scope id="2882729256811345589" at="55,31,56,20" />
+      <scope id="2882729256811345589" at="58,29,59,18" />
+      <scope id="2882729256811345589" at="62,27,63,17" />
+      <scope id="2882729256811345589" at="65,36,66,20" />
+      <scope id="2882729256811345589" at="68,31,69,19" />
+      <scope id="2882729256811345589" at="71,23,72,13" />
+      <scope id="2882729256811345589" at="19,0,21,0" />
+      <scope id="2882729256811345589" at="22,0,25,0">
+        <var name="newValue" id="2882729256811345589" />
+      </scope>
+      <scope id="2882729256811345589" at="25,0,28,0">
+        <var name="newValue" id="2882729256811345589" />
+      </scope>
+      <scope id="2882729256811345589" at="28,0,31,0">
+        <var name="newValue" id="2882729256811345589" />
+      </scope>
+      <scope id="2882729256811345589" at="31,0,34,0">
+        <var name="newValue" id="2882729256811345589" />
+      </scope>
+      <scope id="2882729256811345589" at="35,0,38,0">
+        <var name="newValue" id="2882729256811345589" />
+      </scope>
+      <scope id="2882729256811345589" at="38,0,41,0">
+        <var name="newValue" id="2882729256811345589" />
+      </scope>
+      <scope id="2882729256811345589" at="41,0,44,0">
+        <var name="newValue" id="2882729256811345589" />
+      </scope>
+      <scope id="2882729256811345589" at="44,0,47,0">
+        <var name="newValue" id="2882729256811345589" />
+      </scope>
+      <scope id="2882729256811345589" at="49,0,52,0" />
+      <scope id="2882729256811345589" at="52,0,55,0" />
+      <scope id="2882729256811345589" at="55,0,58,0" />
+      <scope id="2882729256811345589" at="58,0,61,0" />
+      <scope id="2882729256811345589" at="62,0,65,0" />
+      <scope id="2882729256811345589" at="65,0,68,0" />
+      <scope id="2882729256811345589" at="68,0,71,0" />
+      <scope id="2882729256811345589" at="71,0,74,0" />
+      <unit id="2882729256811345589" at="7,0,76,0" name="DataDictionaryNew.sandbox.Osoba" />
+    </file>
+    <file name="Prijava.java">
+      <node id="6591158001056897523" at="8,0,9,0" concept="2" trace="PrijavaId" />
+      <node id="6591158001056897523" at="9,0,10,0" concept="2" trace="Naziv" />
+      <node id="6591158001056897523" at="15,42,16,25" concept="1" />
+      <node id="6591158001056897523" at="18,41,19,21" concept="1" />
+      <node id="6591158001056897523" at="24,29,25,21" concept="4" />
+      <node id="6591158001056897523" at="27,28,28,17" concept="4" />
+      <node id="6591158001056897523" at="12,0,14,0" concept="0" trace="Prijava#()V" />
+      <node id="6591158001056897523" at="15,0,18,0" concept="3" trace="setPrijavaId#(I)V" />
+      <node id="6591158001056897523" at="18,0,21,0" concept="3" trace="setNaziv#(Ljava/lang/String;)V" />
+      <node id="6591158001056897523" at="24,0,27,0" concept="3" trace="getPrijavaId#()I" />
+      <node id="6591158001056897523" at="27,0,30,0" concept="3" trace="getNaziv#()Ljava/lang/String;" />
+      <scope id="6591158001056897523" at="12,20,12,20" />
+      <scope id="6591158001056897523" at="15,42,16,25" />
+      <scope id="6591158001056897523" at="18,41,19,21" />
+      <scope id="6591158001056897523" at="24,29,25,21" />
+      <scope id="6591158001056897523" at="27,28,28,17" />
+      <scope id="6591158001056897523" at="12,0,14,0" />
+      <scope id="6591158001056897523" at="15,0,18,0">
+        <var name="newValue" id="6591158001056897523" />
+      </scope>
+      <scope id="6591158001056897523" at="18,0,21,0">
+        <var name="newValue" id="6591158001056897523" />
+      </scope>
+      <scope id="6591158001056897523" at="24,0,27,0" />
+      <scope id="6591158001056897523" at="27,0,30,0" />
+      <unit id="6591158001056897523" at="6,0,33,0" name="DataDictionaryNew.sandbox.Prijava" />
+    </file>
+  </root>
+</debug-info>
+

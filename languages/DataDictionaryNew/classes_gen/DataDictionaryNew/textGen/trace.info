@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <root>
+    <file name="TextGenAspectDescriptor.java">
+      <unit at="13,0,50,0" name="DataDictionaryNew.textGen.TextGenAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:c88ddf44-6537-4726-8a61-bd49b53aaf95(DataDictionaryNew.textGen)/2882729256806180317">
+    <file name="PredefinedDomain_TextGen.java">
+      <node id="2882729256806180317" at="13,54,14,55" concept="2" />
+      <node id="2882729256806180416" at="14,55,15,183" concept="0" />
+      <node id="2882729256806180317" at="12,0,17,0" concept="1" trace="generateText#(Ljetbrains/mps/text/rt/TextGenContext;)V" />
+      <scope id="2882729256806180317" at="13,54,15,183">
+        <var name="tgs" id="2882729256806180317" />
+      </scope>
+      <scope id="2882729256806180317" at="12,0,17,0">
+        <var name="ctx" id="2882729256806180317" />
+      </scope>
+      <unit id="2882729256806180317" at="11,0,18,0" name="DataDictionaryNew.textGen.PredefinedDomain_TextGen" />
+    </file>
+  </root>
+  <root nodeRef="r:c88ddf44-6537-4726-8a61-bd49b53aaf95(DataDictionaryNew.textGen)/2882729256806806799">
+    <file name="UserDefinedDomain_TextGen.java">
+      <node id="2882729256806806799" at="14,54,15,55" concept="2" />
+      <node id="2882729256806806817" at="15,55,16,340" concept="0" />
+      <node id="2882729256806806799" at="13,0,18,0" concept="1" trace="generateText#(Ljetbrains/mps/text/rt/TextGenContext;)V" />
+      <scope id="2882729256806806799" at="14,54,16,340">
+        <var name="tgs" id="2882729256806806799" />
+      </scope>
+      <scope id="2882729256806806799" at="13,0,18,0">
+        <var name="ctx" id="2882729256806806799" />
+      </scope>
+      <unit id="2882729256806806799" at="12,0,19,0" name="DataDictionaryNew.textGen.UserDefinedDomain_TextGen" />
+    </file>
+  </root>
+  <root nodeRef="r:c88ddf44-6537-4726-8a61-bd49b53aaf95(DataDictionaryNew.textGen)/2882729256806858865">
+    <file name="Restriction_TextGen.java">
+      <node id="2882729256806858865" at="11,54,12,55" concept="2" />
+      <node id="2882729256806858865" at="10,0,14,0" concept="1" trace="generateText#(Ljetbrains/mps/text/rt/TextGenContext;)V" />
+      <scope id="2882729256806858865" at="11,54,12,55">
+        <var name="tgs" id="2882729256806858865" />
+      </scope>
+      <scope id="2882729256806858865" at="10,0,14,0">
+        <var name="ctx" id="2882729256806858865" />
+      </scope>
+      <unit id="2882729256806858865" at="9,0,15,0" name="DataDictionaryNew.textGen.Restriction_TextGen" />
+    </file>
+  </root>
+  <root nodeRef="r:c88ddf44-6537-4726-8a61-bd49b53aaf95(DataDictionaryNew.textGen)/2882729256807047998">
+    <file name="Aggregation_TextGen.java">
+      <node id="2882729256807047998" at="13,54,14,55" concept="2" />
+      <node id="2882729256807048084" at="14,55,15,183" concept="0" />
+      <node id="2882729256807047998" at="12,0,17,0" concept="1" trace="generateText#(Ljetbrains/mps/text/rt/TextGenContext;)V" />
+      <scope id="2882729256807047998" at="13,54,15,183">
+        <var name="tgs" id="2882729256807047998" />
+      </scope>
+      <scope id="2882729256807047998" at="12,0,17,0">
+        <var name="ctx" id="2882729256807047998" />
+      </scope>
+      <unit id="2882729256807047998" at="11,0,18,0" name="DataDictionaryNew.textGen.Aggregation_TextGen" />
+    </file>
+  </root>
+  <root nodeRef="r:c88ddf44-6537-4726-8a61-bd49b53aaf95(DataDictionaryNew.textGen)/2882729256807057605">
+    <file name="StructureAsAField_TextGen.java">
+      <node id="2882729256807057605" at="13,54,14,55" concept="2" />
+      <node id="2882729256807057623" at="14,55,15,183" concept="0" />
+      <node id="2882729256807057605" at="12,0,17,0" concept="1" trace="generateText#(Ljetbrains/mps/text/rt/TextGenContext;)V" />
+      <scope id="2882729256807057605" at="13,54,15,183">
+        <var name="tgs" id="2882729256807057605" />
+      </scope>
+      <scope id="2882729256807057605" at="12,0,17,0">
+        <var name="ctx" id="2882729256807057605" />
+      </scope>
+      <unit id="2882729256807057605" at="11,0,18,0" name="DataDictionaryNew.textGen.StructureAsAField_TextGen" />
+    </file>
+  </root>
+  <root nodeRef="r:c88ddf44-6537-4726-8a61-bd49b53aaf95(DataDictionaryNew.textGen)/2882729256807384794">
+    <file name="SetOfComponentsAsAField_TextGen.java">
+      <node id="2882729256807384794" at="14,54,15,55" concept="2" />
+      <node id="2882729256807385129" at="15,55,16,346" concept="0" />
+      <node id="2882729256807384794" at="13,0,18,0" concept="1" trace="generateText#(Ljetbrains/mps/text/rt/TextGenContext;)V" />
+      <scope id="2882729256807384794" at="14,54,16,346">
+        <var name="tgs" id="2882729256807384794" />
+      </scope>
+      <scope id="2882729256807384794" at="13,0,18,0">
+        <var name="ctx" id="2882729256807384794" />
+      </scope>
+      <unit id="2882729256807384794" at="12,0,19,0" name="DataDictionaryNew.textGen.SetOfComponentsAsAField_TextGen" />
+    </file>
+  </root>
+</debug-info>
+

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.SwitchStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ThrowStatement" />
+  <root>
+    <file name="AbstractField_BehaviorDescriptor.java">
+      <unit at="14,0,26,0" name="DataDictionaryNew.behavior.AbstractField_BehaviorDescriptor" />
+    </file>
+    <file name="AggregationAsAField_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="DataDictionaryNew.behavior.AggregationAsAField_BehaviorDescriptor" />
+    </file>
+    <file name="Aggregation_BehaviorDescriptor.java">
+      <unit at="14,0,26,0" name="DataDictionaryNew.behavior.Aggregation_BehaviorDescriptor" />
+    </file>
+    <file name="BehaviorAspectDescriptor.java">
+      <unit at="14,0,42,0" name="DataDictionaryNew.behavior.BehaviorAspectDescriptor" />
+    </file>
+    <file name="DataDictionary_BehaviorDescriptor.java">
+      <unit at="14,0,26,0" name="DataDictionaryNew.behavior.DataDictionary_BehaviorDescriptor" />
+    </file>
+    <file name="Definitions_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="DataDictionaryNew.behavior.Definitions_BehaviorDescriptor" />
+    </file>
+    <file name="Domain_BehaviorDescriptor.java">
+      <unit at="14,0,26,0" name="DataDictionaryNew.behavior.Domain_BehaviorDescriptor" />
+    </file>
+    <file name="ExclusiveSpecializationAsField_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="DataDictionaryNew.behavior.ExclusiveSpecializationAsField_BehaviorDescriptor" />
+    </file>
+    <file name="FieldDefinition_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="DataDictionaryNew.behavior.FieldDefinition_BehaviorDescriptor" />
+    </file>
+    <file name="FieldRef_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="DataDictionaryNew.behavior.FieldRef_BehaviorDescriptor" />
+    </file>
+    <file name="Field_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="DataDictionaryNew.behavior.Field_BehaviorDescriptor" />
+    </file>
+    <file name="NonExclusiveSpecializationAsField_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="DataDictionaryNew.behavior.NonExclusiveSpecializationAsField_BehaviorDescriptor" />
+    </file>
+    <file name="PredefinedDomain_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="DataDictionaryNew.behavior.PredefinedDomain_BehaviorDescriptor" />
+    </file>
+    <file name="Restriction_BehaviorDescriptor.java">
+      <unit at="14,0,26,0" name="DataDictionaryNew.behavior.Restriction_BehaviorDescriptor" />
+    </file>
+    <file name="SetOfComponentsAsAField_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="DataDictionaryNew.behavior.SetOfComponentsAsAField_BehaviorDescriptor" />
+    </file>
+    <file name="StructureAsAField_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="DataDictionaryNew.behavior.StructureAsAField_BehaviorDescriptor" />
+    </file>
+    <file name="UserDefinedDomain_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="DataDictionaryNew.behavior.UserDefinedDomain_BehaviorDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:c895b613-dca5-42d2-812c-f4adbaf7a53d(DataDictionaryNew.behavior)/2882729256806541509">
+    <file name="AbstractField_Behavior.java">
+      <node id="2882729256806541509" at="13,80,14,84" concept="5" />
+      <node id="2882729256806541509" at="16,80,17,84" concept="5" />
+      <node id="2882729256806541509" at="13,0,16,0" concept="7" trace="call_setterName_2882729256806541516#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="2882729256806541509" at="16,0,19,0" concept="7" trace="call_getterName_2882729256806551709#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <scope id="2882729256806541509" at="13,80,14,84" />
+      <scope id="2882729256806541509" at="16,80,17,84" />
+      <scope id="2882729256806541509" at="13,0,16,0">
+        <var name="__thisNode__" id="2882729256806541509" />
+      </scope>
+      <scope id="2882729256806541509" at="16,0,19,0">
+        <var name="__thisNode__" id="2882729256806541509" />
+      </scope>
+      <unit id="2882729256806541509" at="11,0,20,0" name="DataDictionaryNew.behavior.AbstractField_Behavior" />
+    </file>
+    <file name="AbstractField__BehaviorDescriptor.java">
+      <node id="2882729256806541509" at="25,0,26,0" concept="6" trace="CONCEPT" />
+      <node id="2882729256806541509" at="26,0,27,0" concept="6" trace="REGISTRY" />
+      <node id="2882729256806541509" at="28,0,29,0" concept="6" trace="setterName_id2w1wJLn_6zc" />
+      <node id="2882729256806541509" at="29,0,30,0" concept="6" trace="getterName_id2w1wJLn_92t" />
+      <node id="2882729256806541509" at="31,0,32,0" concept="6" trace="BH_METHODS" />
+      <node id="2882729256806541560" at="36,83,37,380" concept="5" />
+      <node id="2882729256806552562" at="39,83,40,380" concept="5" />
+      <node id="2882729256806541509" at="43,51,44,20" concept="8" />
+      <node id="2882729256806541509" at="48,114,49,21" concept="1" />
+      <node id="2882729256806541509" at="53,114,54,49" concept="4" />
+      <node id="2882729256806541509" at="55,26,56,56" concept="10" />
+      <node id="2882729256806541509" at="59,13,60,61" concept="5" />
+      <node id="2882729256806541509" at="61,13,62,61" concept="5" />
+      <node id="2882729256806541509" at="63,14,64,58" concept="10" />
+      <node id="2882729256806541509" at="69,128,70,49" concept="4" />
+      <node id="2882729256806541509" at="71,26,72,56" concept="10" />
+      <node id="2882729256806541509" at="75,14,76,58" concept="10" />
+      <node id="2882729256806541509" at="82,48,83,22" concept="5" />
+      <node id="2882729256806541509" at="88,40,89,19" concept="5" />
+      <node id="2882729256806541509" at="33,0,35,0" concept="7" trace="___init___#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <node id="2882729256806541509" at="36,0,39,0" concept="7" trace="setterName_id2w1wJLn_6zc#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="2882729256806541509" at="39,0,42,0" concept="7" trace="getterName_id2w1wJLn_92t#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="2882729256806541509" at="43,0,46,0" concept="0" trace="AbstractField__BehaviorDescriptor#()V" />
+      <node id="2882729256806541509" at="54,49,57,5" concept="2" />
+      <node id="2882729256806541509" at="70,49,73,5" concept="2" />
+      <node id="2882729256806541509" at="47,0,51,0" concept="3" trace="initNode#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/core/aspects/behaviour/api/SConstructor;[Ljava/lang/Object;)V" />
+      <node id="2882729256806541509" at="73,5,77,5" concept="9" />
+      <node id="2882729256806541509" at="80,0,85,0" concept="3" trace="getDeclaredMethods#()Ljava/util/List;" />
+      <node id="2882729256806541509" at="86,0,91,0" concept="3" trace="getConcept#()Lorg/jetbrains/mps/openapi/language/SAbstractConcept;" />
+      <node id="2882729256806541509" at="57,5,65,5" concept="9" />
+      <node id="2882729256806541509" at="68,0,79,0" concept="3" trace="invokeSpecial0#(Lorg/jetbrains/mps/openapi/language/SAbstractConcept;Ljetbrains/mps/core/aspects/behaviour/api/SMethod;[Ljava/lang/Object;)null" />
+      <node id="2882729256806541509" at="52,0,67,0" concept="3" trace="invokeSpecial0#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/core/aspects/behaviour/api/SMethod;[Ljava/lang/Object;)null" />
+      <scope id="2882729256806541509" at="33,63,33,63" />
+      <scope id="2882729256806541519" at="36,83,37,380" />
+      <scope id="2882729256806551712" at="39,83,40,380" />
+      <scope id="2882729256806541509" at="43,51,44,20" />
+      <scope id="2882729256806541509" at="48,114,49,21" />
+      <scope id="2882729256806541509" at="55,26,56,56" />
+      <scope id="2882729256806541509" at="59,13,60,61" />
+      <scope id="2882729256806541509" at="61,13,62,61" />
+      <scope id="2882729256806541509" at="63,14,64,58" />
+      <scope id="2882729256806541509" at="71,26,72,56" />
+      <scope id="2882729256806541509" at="75,14,76,58" />
+      <scope id="2882729256806541509" at="82,48,83,22" />
+      <scope id="2882729256806541509" at="88,40,89,19" />
+      <scope id="2882729256806541509" at="33,0,35,0">
+        <var name="__thisNode__" id="2882729256806541509" />
+      </scope>
+      <scope id="2882729256806541509" at="36,0,39,0">
+        <var name="__thisNode__" id="2882729256806541509" />
+      </scope>
+      <scope id="2882729256806541509" at="39,0,42,0">
+        <var name="__thisNode__" id="2882729256806541509" />
+      </scope>
+      <scope id="2882729256806541509" at="43,0,46,0" />
+      <scope id="2882729256806541509" at="47,0,51,0">
+        <var name="constructor" id="2882729256806541509" />
+        <var name="node" id="2882729256806541509" />
+        <var name="parameters" id="2882729256806541509" />
+      </scope>
+      <scope id="2882729256806541509" at="80,0,85,0" />
+      <scope id="2882729256806541509" at="86,0,91,0" />
+      <scope id="2882729256806541509" at="69,128,77,5">
+        <var name="methodIndex" id="2882729256806541509" />
+      </scope>
+      <scope id="2882729256806541509" at="68,0,79,0">
+        <var name="concept" id="2882729256806541509" />
+        <var name="method" id="2882729256806541509" />
+        <var name="parameters" id="2882729256806541509" />
+      </scope>
+      <scope id="2882729256806541509" at="53,114,65,5">
+        <var name="methodIndex" id="2882729256806541509" />
+      </scope>
+      <scope id="2882729256806541509" at="52,0,67,0">
+        <var name="method" id="2882729256806541509" />
+        <var name="node" id="2882729256806541509" />
+        <var name="parameters" id="2882729256806541509" />
+      </scope>
+      <unit id="2882729256806541509" at="24,0,92,0" name="DataDictionaryNew.behavior.AbstractField__BehaviorDescriptor" />
+    </file>
+  </root>
+</debug-info>
+

@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dependenciesRoot>
+  <dependency className="DataDictionaryNew.sandbox.IspitnaPrijava" file="IspitnaPrijava.java">
+    <classNode dependClassName="DataDictionaryNew.sandbox.Predmet" />
+    <classNode dependClassName="DataDictionaryNew.sandbox.Profesor" />
+    <classNode dependClassName="DataDictionaryNew.sandbox.Student" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
   <dependency className="DataDictionaryNew.sandbox.Mesto" file="Mesto.java">
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictionaryNew.sandbox.Osoaba" file="Osoaba.java">
     <classNode dependClassName="java.lang.String" />
   </dependency>
   <dependency className="DataDictionaryNew.sandbox.Osoba" file="Osoba.java">
@@ -9,7 +18,28 @@
     <classNode dependClassName="java.lang.String" />
     <classNode dependClassName="java.util.List" />
   </dependency>
+  <dependency className="DataDictionaryNew.sandbox.Predmet" file="Predmet.java">
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
   <dependency className="DataDictionaryNew.sandbox.Prijava" file="Prijava.java">
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictionaryNew.sandbox.Profesor" file="Profesor.java">
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictionaryNew.sandbox.Racun" file="Racun.java">
+    <classNode dependClassName="DataDictionaryNew.sandbox.Radnik" />
+    <classNode dependClassName="DataDictionaryNew.sandbox.Stavka" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.util.List" />
+  </dependency>
+  <dependency className="DataDictionaryNew.sandbox.Radnik" file="Radnik.java">
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictionaryNew.sandbox.Stavka" file="Stavka.java">
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDictionaryNew.sandbox.Student" file="Student.java">
     <classNode dependClassName="java.lang.String" />
   </dependency>
 </dependenciesRoot>

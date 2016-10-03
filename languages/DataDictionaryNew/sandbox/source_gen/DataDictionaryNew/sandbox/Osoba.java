@@ -8,7 +8,7 @@ public class Osoba {
 
   private int OsobaId ;
   private String Ime;
-  private double Prezime ;
+  private String Prezime ;
   private String Godina;
 
   private Mesto Mesto;
@@ -25,7 +25,7 @@ public class Osoba {
   public void setIme(String newValue) {
     Ime = newValue;
   }
-  public void setPrezime (double newValue) {
+  public void setPrezime (String newValue) {
     Prezime  = newValue;
   }
   public void setGodina(String newValue) {
@@ -52,7 +52,7 @@ public class Osoba {
   public String getIme() {
     return Ime;
   }
-  public double getPrezime () {
+  public String getPrezime () {
     return Prezime ;
   }
   public String getGodina() {
